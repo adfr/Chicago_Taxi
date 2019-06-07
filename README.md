@@ -22,7 +22,7 @@ In this Jupyter file we try to provide analysis on the location of pickup and th
 
 ## 4. Results
 
-One medium post: 
+One medium post: https://medium.com/when-where-shoud-taxi-drive-to-make-more-money/when-where-should-taxi-drive-to-make-more-money-8e76f7a729dc?source=friends_link&sk=66692dfebc95acd001c0d4ee9b041a16
 
 ## 5. Licenses
 
